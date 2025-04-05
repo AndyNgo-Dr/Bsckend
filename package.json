@@ -1,0 +1,27 @@
+{
+  "name": "backendzero",
+  "version": "1.0.0",
+  "description": "Hoc lap trinh",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndyNgo-Dr/Bsckend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "react"
+  ],
+  "author": "Tringo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndyNgo-Dr/Bsckend/issues"
+  },
+  "homepage": "https://github.com/AndyNgo-Dr/Bsckend#readme",
+  "dependencies": {
+    "express": "4.18.2"
+  }
+}
